@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👩‍💻 I’m Tasneem Abouzaid
+# 👩‍💻 I’m Tasneem AbouZaid
 
 I’m a self-taught full-stack developer, building my portfolio and pushing projects daily!
 
