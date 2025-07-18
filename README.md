@@ -1,12 +1,3 @@
-## 🚀 Latest Project
-- [To-Do App with React](https://stackblitz.com/~/github.com/Tassnim-AbouZaid/todo-app-react)
-
-## 💡 Skills I'm Learning
-- HTML, CSS, JavaScript, React
-- Node.js, Express.js, MongoDB (MERN Stack)
-
-📬 Reach me: [tassnimabouzaid02@gmail.com]
-
 <h1 align="center">Hi there 👋, I'm Tassnim AbouZaid</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate about building clean, user-friendly web apps</h3>
 
