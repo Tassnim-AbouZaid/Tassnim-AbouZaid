@@ -26,7 +26,7 @@
 </p>
 
 ---
-## 🚀 Latest Project
+### 🚀 Latest Project
 - [To-Do App with React](https://stackblitz.com/~/github.com/Tassnim-AbouZaid/todo-app-react)
 
 ### ✨ Projects
@@ -49,5 +49,6 @@
 
 ### 🤝 Let's Connect
 <p align="left">
-  <a href="mailto:tassnimabouzaid02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:tassnimabouzaid02@gmail.com"><img src="https://sl.bing.net/eHUNlFy4sBo"/></a>
+  <a href="messageto:01026875114"><img src="https://vectorseek.com/wp-content/uploads/2021/02/WhatsApp-Logo-Vector-730x730.jpg"/></a>  
 </p>
