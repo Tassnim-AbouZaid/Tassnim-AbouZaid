@@ -1,9 +1,3 @@
-## Hi there 👋
-
-# 👩‍💻 I’m Tasneem AbouZaid
-
-I’m a self-taught full-stack developer, building my portfolio and pushing projects daily!
-
 ## 🚀 Latest Project
 - [To-Do App with React](https://stackblitz.com/~/github.com/Tassnim-AbouZaid/todo-app-react)
 
@@ -13,13 +7,14 @@ I’m a self-taught full-stack developer, building my portfolio and pushing proj
 
 📬 Reach me: [tassnimabouzaid02@gmail.com]
 
-<h1 align="center">Hi 👋, I'm Tassnim AbouZaid</h1>
+<h1 align="center">Hi there 👋, I'm Tassnim AbouZaid</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate about building clean, user-friendly web apps</h3>
 
 ---
 
+- I’m a self-taught full-stack developer, building my portfolio and pushing projects daily!
 - 🔭 I’m currently working on: **React Projects & Full Stack Roadmap**
-- 🌱 I’m currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**
+- 🌱 I’m currently learning: **HTML, CSS, JavaScript, React & MERN Stack (MongoDB, Express.js, React, Node.js)**
 - 💬 Ask me about: **JavaScript, Notion, Git, Firebase**
 - 📫 How to reach me: **tassnimabouzaid02@gmail.com**
 - 📲  : **01026875114**
@@ -40,6 +35,8 @@ I’m a self-taught full-stack developer, building my portfolio and pushing proj
 </p>
 
 ---
+## 🚀 Latest Project
+- [To-Do App with React](https://stackblitz.com/~/github.com/Tassnim-AbouZaid/todo-app-react)
 
 ### ✨ Projects
 - [Todo App (React)](https://stackblitz.com/edit/react-nmn3xwgm)
