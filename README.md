@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Tassnim-AbouZaid/Tassnim-AbouZaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 I’m Tasneem Abouzaid
 
-Here are some ideas to get you started:
+I’m a self-taught full-stack developer, building my portfolio and pushing projects daily!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Latest Project
+- [To-Do App with React](https://stackblitz.com/~/github.com/Tassnim-AbouZaid/todo-app-react)
+
+## 💡 Skills I'm Learning
+- HTML, CSS, JavaScript, React
+- Node.js, Express.js, MongoDB (MERN Stack)
+
+📬 Reach me: [tassnimabouzaid02@gmail.com]
