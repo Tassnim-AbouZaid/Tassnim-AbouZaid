@@ -56,7 +56,7 @@
 
 
   <a href="https://wa.me/1026875114/?text=I'm%20interested%20with%20your%20profile" target="_blank">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.lwLj_jV7r2NJEjta5aO9bgHaHX?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Send WhatsApp Message" style="width:120px;height:auto;"> 
+  <img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG20.png" alt="Send WhatsApp Message" style="width:120px;height:auto"> 
   </a>
   
 </p>
