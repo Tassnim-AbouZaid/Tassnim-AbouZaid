@@ -50,11 +50,11 @@
 ### 🤝 Let's Connect
 <p align="left">
   <a href="mailto:tassnimabouzaid02@gmail.com?
-   subject=Hello&body=I%20would%20like%20to%20connect%20with%20you%20to%20tell%20you%20that%20I'm%20interested%20with%20your%20profile" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="Send Email" style="width:50px;height:50px;">
+   subject=Hello&body=I%20would%20like%20to%20connect%20with%20you%20to%20tell%20you%20that%20I'm%20interested%20with%20your%20profile" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="Send Email" style="width:100px;height:50px;">
 </a>
   
   <a href="https://wa.me/102687511/?text=I'm%20interested%20with%20your%20profile" target="_blank">
-  <img src="https://th.bing.com/th/id/OIP.mYZJrMcqZklzPosxxeG-iAHaBy?w=325&h=84&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Send WhatsApp Message" style="width:100px;height:auto;">
+  <img src="https://th.bing.com/th/id/OIP.mYZJrMcqZklzPosxxeG-iAHaBy?w=325&h=84&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Send WhatsApp Message" style="width:120px;height:auto;">
 </a>
 
 </p>
