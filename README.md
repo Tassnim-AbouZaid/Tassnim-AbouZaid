@@ -27,11 +27,11 @@
 
 ---
 ### 🚀 Latest Project
-- [To-Do App with React](https://stackblitz.com/~/github.com/Tassnim-AbouZaid/todo-app-react)
+- [To-Do App with React](https://stackblitz.com/~/github.com/Tassnim-AbouZaid/todo-app-react--)
 
 ### ✨ Projects
 - [Todo App (React)](https://stackblitz.com/edit/react-nmn3xwgm)
-- [GitHub Repo](https://github.com/Tassnim-AbouZaid/todo-app-react)
+- [GitHub Repo](https://github.com/Tassnim-AbouZaid/todo-app-react--)
 
 ---
 
